@@ -1,1 +1,1 @@
-
+Our Space is a minimal, real-time shared digital sanctuary designed specifically for two people (such as partners, best friends, or close family members). Built as a single-page, mobile-optimized web application using PeerJS, it creates a direct peer-to-peer connection so users can interact live without needing a traditional backend server or database.
